@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sanvi
+## Hi there 👋 I'm sgd31
 
 I'm a pre-final year Electrical and Computer Engineering student who is interested in systems, computer architective, software engineering and programming. I'm new to open source but actively working toward making my first contributions.
 
