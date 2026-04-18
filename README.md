@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 I'm Sanvi
 
-<!--
-**sgd31/sgd31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a pre-final year Electrical and Computer Engineering student who is interested in systems, computer architective, software engineering and programming. I'm new to open source but actively working toward making my first contributions.
 
-Here are some ideas to get you started:
+### What I'm up to
+- 🧩 Competitive programming and problem solving
+- 📐 Learning Discrete Mathematics and LaTeX
+- 🦀 Exploring Rust (just getting started)
+- 📖 Research — learning how to read and write 
+     technical literature
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- **Languages:** C, C++, Python, JavaScript, SQL, MATLAB
+- **Web:** HTML, CSS
+- **Tools:** Git
+- **CS Fundamentals:** Data Structures, Algorithms
+
+### Currently exploring
+Open source contribution — particularly interested in 
+distributed systems and blockchain research.
